@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+samples
+.idea
+test
+# Serverless directories
+.serverless
+.vscode
+
+# Typescript --> JS Build folder
+.build
+.DS_Store
+
+coverage
+testScripts
+debug.log
+keys.json 
